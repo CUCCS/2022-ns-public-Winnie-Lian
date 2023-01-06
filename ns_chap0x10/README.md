@@ -175,6 +175,17 @@ rc status # 查看状况，根本不行
 ![](img/crash.png)
 ![](img/fail2up.png)
 
+---
+
+被现实打败的分割线
+![](img/yesterday_restart.png)
+![](img/no_1.0.2.png)
+我就是严重怀疑alpine没有发布这个新版本、、、，总之又折腾了很久还是不行、、、
+
+---
+
+
+
 ### refer
 - [openRC](https://www.cnblogs.com/jackadam/p/9290366.html)
 - [Fail2ban](https://wiki.alpinelinux.org/wiki/Fail2ban)
